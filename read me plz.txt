@@ -1,0 +1,1 @@
+the software created by python in which the text is speached into the voice
