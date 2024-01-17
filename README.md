@@ -1,2 +1,2 @@
 # text-to-speach
-python, ai
+python
